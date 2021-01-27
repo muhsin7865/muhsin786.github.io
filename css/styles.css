@@ -6,7 +6,7 @@ body{
 
 
 #Main-img {
-  height: 625px;
+  height: 32.1em;
   width: 100%;
   margin-bottom: 50px;
 }
@@ -25,6 +25,11 @@ body{
   font-family: 'Montserrat', sans-serif;
   color: White;
   display: inline;
+}
+#mainid {
+  margin: 0;
+  padding: 0;
+
 }
 h1 {
   font-size: 60px;
@@ -72,10 +77,9 @@ hr {
   color: #EAF6F6;
 }
 .details {
-
   position: absolute;
-  right: 37%;
-  top: 19%;
+  top: 40%;
+    left: 18.75em;
 }
 .intro {
   margin: auto;
@@ -83,7 +87,8 @@ hr {
 }
 .mountain{
   position: relative;
-  margin-bottom: 100px;
+  margin: auto;
+  text-align: center;
 }
 h2 {
   color: #66BFBF;
@@ -128,8 +133,8 @@ p {
   border-radius: 8px;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
-  font-size: 13px;
-  padding: 5px 10px 5px 10px;
+  font-size: 0.5rem;
+  padding: 0.3125rem 0.625rem 0.3125rem 0.625rem;
   text-decoration: none;
 }
 
